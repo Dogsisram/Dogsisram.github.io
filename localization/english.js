@@ -94,5 +94,12 @@ window.LOC = {
 
   // Menu
   "menu.returnHome": "Home",
-  "menu.switchLanguage": "Language"
+  "menu.switchLanguage": "Language",
+  "menu.pages": "Pages",
+  "menu.page.home": "Home",
+  "menu.page.about": "About me",
+  "menu.page.catalogue": "Catalogue",
+  "menu.page.projects": "Projects",
+  "menu.page.project1": "Project 1",
+  "menu.page.wcid": "What can I do"
 };

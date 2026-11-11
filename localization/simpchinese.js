@@ -95,5 +95,12 @@ window.LOC = {
 
   // 菜单
   "menu.returnHome": "回到主页",
-  "menu.switchLanguage": "语言"
+  "menu.switchLanguage": "语言",
+  "menu.pages": "页面",
+  "menu.page.home": "主页",
+  "menu.page.about": "关于我",
+  "menu.page.catalogue": "目录",
+  "menu.page.projects": "项目",
+  "menu.page.project1": "项目 1",
+  "menu.page.wcid": "我能做什么"
 };
